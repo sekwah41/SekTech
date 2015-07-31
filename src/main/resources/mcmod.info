@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sektech",
+  "name": "Sek Tech",
+  "description": "Technology made by sekwah.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sekwah41"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
